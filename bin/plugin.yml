@@ -1,0 +1,9 @@
+name: Peek
+version: 0.7
+author: etusa
+main: org.rtkcraft.Peek.Main
+description: farssi as farssi
+
+commands:
+  peek:
+    description: Tama
